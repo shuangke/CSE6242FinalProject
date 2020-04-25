@@ -1,4 +1,4 @@
-This section plots financial variables of household respondent for different groups of age and health status.
+This section plots median of household respondents' financial variables grouped by age and health status.
 
 * medical expendicure
 
