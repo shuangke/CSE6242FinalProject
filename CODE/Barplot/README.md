@@ -6,12 +6,15 @@ This section plots median of household respondents' financial variables grouped 
 
 
 * labor income
+
 ![GitHub Logo](CSE6242_finalproject_bar_screenshot2.png)
 
 * accumulative wealth 
+
 ![GitHub Logo](CSE6242_finalproject_bar_screenshot3.png)
 
 * stock investment 
+
 ![GitHub Logo](CSE6242_finalproject_bar_screenshot4.png)
 
 
