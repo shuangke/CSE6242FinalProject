@@ -16,6 +16,8 @@ Format: ![Alt Text](url)
 
 * stock investment 
 ![GitHub Logo](CSE6242_finalproject_bar_screenshot4.png)
-Format: ![Alt Text](url)
+
+
+The corresponding HTML file is in [CSE6242_finalproject_bar.html]()
 
 
