@@ -18,6 +18,6 @@ Format: ![Alt Text](url)
 ![GitHub Logo](CSE6242_finalproject_bar_screenshot4.png)
 
 
-The corresponding HTML file is in [CSE6242_finalproject_bar.html]()
+The corresponding HTML file is in [CSE6242_finalproject_bar.html](https://github.com/shuangke/CSE6242FinalProject/blob/master/CODE/Barplot/CSE6242_finalproject_bar.html)
 
 
