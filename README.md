@@ -23,6 +23,18 @@ Download CODE Folder and there are sub-folders in CODE, here are the steps to se
 	b) Check python version use python -V
 	c) If Python version returned is 3.X, use python3 -m http.server
 	   If Python version returned is 2.X, use python -m SimpleHTTPSever
+	   
+2. Barplot
+	Contents:
+	lib: this folder includes all necessary D3 related .js files for D3 visualization. 
+	CSE6242_finalproject_bar.csv: processed data .csv file includes all data needed for visualization. 
+	CSE6242_finalproject_bar.html: this file includes D3 visualization code mplementation in javascript for the grouped 	    bar plots with dropdown options.
+	
+	Set up:
+	a) In command window, change the current directory to Barplot.
+	b) Check python version use python -V
+	c) If Python version returned is 3.X, use python3 -m http.server
+           If Python version returned is 2.X, use python -m SimpleHTTPSever
  
 
 ## Execution
@@ -30,3 +42,8 @@ Download CODE Folder and there are sub-folders in CODE, here are the steps to se
 	a) Open a web browser, type following URL: localhost:8000
 	b) Select choropleth_by_age.html
 	c) Slide bar can be used to change the age group
+	
+2. Barplot
+	a) Open a web browser, type following URL: localhost:8000
+	b) Select choropleth_by_age.html
+	c) Dropdown can be used to change the financial variables
