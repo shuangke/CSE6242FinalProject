@@ -22,4 +22,4 @@ The corresponding HTML file is in [CSE6242_finalproject_bar.html](https://github
 
 
 The population decomposition by health status grouped by age and states can be found as below.
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/shuangke/CSE6242FinalProject/blob/master/CODE/Barplot/region_age_health_percent.gif)
