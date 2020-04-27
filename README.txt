@@ -40,7 +40,7 @@ Download CODE Folder and there are four sub-folders in CODE. Here are the steps 
 	Contents:
 	lib: this folder includes all necessary D3 related .js files for D3 visualization. 
 	CSE6242_finalproject_bar.csv: processed data .csv file includes all data needed for visualization. 
-	CSE6242_finalproject_bar.html: this file includes D3 visualization code implementation in javascript for the grouped bar plots with dropdown options.
+	CSE6242_finalproject_bar.html: this file includes D3 visualization code implementation in javascript for the grouped bar plots with dropdown options. The visualization can be found [here](https://sahil-dhingra.github.io/barplot/).
 	
 	Set up:
 	a) In command window, change the current directory to Barplot.
@@ -48,7 +48,7 @@ Download CODE Folder and there are four sub-folders in CODE. Here are the steps 
 	c) If Python version returned is 3.X, use python3 -m http.server
            If Python version returned is 2.X, use python -m SimpleHTTPSever
 	    
-2. Kmeans clusters
+3. Kmeans clusters
 	Contents:
 	lib: this folder includes all necessary D3 related .js files for D3 visualization. 
 	cluster_summary.csv: processed data .csv file includes all data needed for visualization - cluster averages for different variables
@@ -56,6 +56,16 @@ Download CODE Folder and there are four sub-folders in CODE. Here are the steps 
 	
 	Set up:
 	a) In command window, change the current directory to Kmeans clusters.
+	b) Check python version use python -V
+	c) If Python version returned is 3.X, use python3 -m http.server
+           If Python version returned is 2.X, use python -m SimpleHTTPSever
+	   
+4. GridView
+	Contents:
+	index.html: this file includes D3 visualization code implementation in javascript for the grid views. The visualization can be found [here](https://sahil-dhingra.github.io/gridview/.
+	
+	Set up:
+	a) In command window, change the current directory to GridView.
 	b) Check python version use python -V
 	c) If Python version returned is 3.X, use python3 -m http.server
            If Python version returned is 2.X, use python -m SimpleHTTPSever
@@ -76,3 +86,8 @@ Download CODE Folder and there are four sub-folders in CODE. Here are the steps 
 	a) Open a web browser, type following URL: localhost:8000
 	b) Select kmeans.html
 	c) Dropdown can be used to change the financial variables
+	
+4. GridView
+	a) Open a web browser, type following URL: localhost:8000
+	b) Select index.html
+	c) Dropdown can be used to change the year variables 
