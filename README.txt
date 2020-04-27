@@ -6,18 +6,18 @@
 * Shuangke Li
 
 ## Descriptions
-[Choropleth](https://sahil-dhingra.github.io/choropleth/):
+1. [Choropleth](https://sahil-dhingra.github.io/choropleth/):
 This is choropleth visualization script in D3. In this visualization, it shows the ratio of average age group's
 overall wealth and health. Ideally, we would like the ratio the larger the better. You can use this visualization to determine
 each state's wealth vs health condition. Slider can be used to visualize the ratio by states from age 20s to 90s. 
 
-[Barplot](https://sahil-dhingra.github.io/barplot/):
+2. [Barplot](https://sahil-dhingra.github.io/barplot/):
 In this visualization, we plot the average medical cost, labor income, stock investment, and accumulative wealth grouped by age and health status. The different financial variables can be selected using the dropdown at the top.
 
-[Kmeans clusters](https://sahil-dhingra.github.io/kmeans/):
+3. [Kmeans clusters](https://sahil-dhingra.github.io/kmeans/):
 In this visualization, we initialize 5 clusters for the first cohort (survey wave) and plot distribution of relevant health and wealth attributes over the following 12 surveys. The trend and distribution of different attributes can be seen over 13 waves for the 5 clusters, where each cluster is represented by a bubble and the number of people at the time of the survey represented by its size. Another important aspect of this scatterplot visualization is the ability to do a bivariate analysis between any two of the seven variables incorporated in the plot. To keep a track of each cluster's trends, the cluster also leaves behind a trail, which is of a smaller size to maintain differentiability. The survey wave can be selected using the slider at the top and variables for x and y axes can be selected using the first and second dropdowns at the bottom respectively.
 
-[Gridview](https://sahil-dhingra.github.io/gridview/):
+4. [Gridview](https://sahil-dhingra.github.io/gridview/):
 This figure shows how is the gender related to health and how does the health condition change over time among female and male – each grid is composed of 100 rectangles and each rectangle represents 1\% of population in a specific gender group. The number of light blue rectangles indicates percentages of unhealthy people. The number of dark blue rectangles indicates percentages of healthy population.  
 
 ## Installation
@@ -63,9 +63,9 @@ Download CODE Folder and there are four sub-folders in CODE. Here are the steps 
 
 ## Execution
 1. choropleth
-a) Open a web browser, type following URL: localhost:8000
-b) Select choropleth_by_age.html
-c) Slide bar can be used to change the age group
+	a) Open a web browser, type following URL: localhost:8000
+	b) Select choropleth_by_age.html
+	c) Slide bar can be used to change the age group
 	
 2. Barplot
 	a) Open a web browser, type following URL: localhost:8000
