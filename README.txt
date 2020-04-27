@@ -4,12 +4,16 @@
 * Sahil Dhingra
 * Shan Huang
 * Shuangke Li
+
 ## Description
-Choropleth: this is choropleth visualization script in D3. In this visualization, it shows the ratio of average age group's
+Choropleth: https://sahil-dhingra.github.io/choropleth/
+This is choropleth visualization script in D3. In this visualization, it shows the ratio of average age group's
 overall wealth and health. Ideally, we would like the ratio the larger the better. You can use this visualization to determine
 each state's wealth vs health condition. Slider can be used to visualize the ratio by states from age 20s to 90s. 
+
+
 ## Installation
-Download CODE Folder and there are sub-folders in CODE, here are the steps to set up each of them. 
+Download CODE Folder and there are four sub-folders in CODE. Here are the steps to set up each of them. 
 1. choropleth
 	Contents:
 	lib: this folder includes all necessary D3 related .js files for D3 visualization. 
