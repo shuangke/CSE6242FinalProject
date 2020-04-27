@@ -27,7 +27,7 @@ Download CODE Folder and there are four sub-folders in CODE. Here are the steps 
 	lib: this folder includes all necessary D3 related .js files for D3 visualization. 
 	states-10m.json: json file defined U.S. map and states line. 
 	group_by_state_age_final.csv: processed data .csv file includes all data needed for visualization. 
-	choropleth_by_age.html: this file includes all D3 visualization code implementation in javascript. 
+	choropleth_by_age.html: this file includes all D3 visualization code implementation in javascript. The visualization can be found [here](https://sahil-dhingra.github.io/choropleth/).
 	W_H_Age.gif: this file is provided for quick visualization only, no set up needed. 
 	
 	Set up:
@@ -52,7 +52,7 @@ Download CODE Folder and there are four sub-folders in CODE. Here are the steps 
 	Contents:
 	lib: this folder includes all necessary D3 related .js files for D3 visualization. 
 	cluster_summary.csv: processed data .csv file includes all data needed for visualization - cluster averages for different variables
-	kmeans.html: this file includes D3 visualization code implementation in javascript for the kmeans clusters with 2 dropdown options for x and y axis respectively and slider for selecting the survey wave.
+	kmeans.html: this file includes D3 visualization code implementation in javascript for the kmeans clusters with 2 dropdown options for x and y axis respectively and slider for selecting the survey wave. The visualization can be found [here](https://sahil-dhingra.github.io/kmeans/).
 	
 	Set up:
 	a) In command window, change the current directory to Kmeans clusters.
@@ -86,7 +86,7 @@ Download CODE Folder and there are four sub-folders in CODE. Here are the steps 
 	a) Open a web browser, type following URL: localhost:8000
 	b) Select kmeans.html
 	c) Dropdown can be used to change Age and Health variables
-	d) Slide bar can be used to change different data wave. 
+	d) Slide bar can be used to change different survey waves. 
 	
 4. GridView
 	a) Open a web browser, type following URL: localhost:8000
