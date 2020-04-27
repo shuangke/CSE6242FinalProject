@@ -6,7 +6,7 @@
 * Shuangke Li
 
 ## Descriptions
-[Choropleth](https://sahil-dhingra.github.io/choropleth/)
+[Choropleth](https://sahil-dhingra.github.io/choropleth/):
 This is choropleth visualization script in D3. In this visualization, it shows the ratio of average age group's
 overall wealth and health. Ideally, we would like the ratio the larger the better. You can use this visualization to determine
 each state's wealth vs health condition. Slider can be used to visualize the ratio by states from age 20s to 90s. 
@@ -18,7 +18,7 @@ In this visualization, we initialize 5 clusters for the first cohort (survey wav
 Static plots of health and wealth distributions grouped by age and conditional upon their time in good or bad health.
 
 [Gridview](https://sahil-dhingra.github.io/gridview/):
-This figure shows how is the gender related to health and how does the health condition change over time among female and male – each grid is composed of 100 rectangles and each rectangle represents 1% of population in a specific gender group. The number of light blue rectangles indicates percentages of unhealthy people. The number of dark blue rectangles indicates percentages of healthy population.  
+This figure shows how is the gender related to health and how does the health condition change over time among female and male – each grid is composed of 100 rectangles and each rectangle represents 1\% of population in a specific gender group. The number of light blue rectangles indicates percentages of unhealthy people. The number of dark blue rectangles indicates percentages of healthy population.  
 
 ## Installation
 Download CODE Folder and there are four sub-folders in CODE. Here are the steps to set up each of them. 
@@ -40,10 +40,22 @@ Download CODE Folder and there are four sub-folders in CODE. Here are the steps 
 	Contents:
 	lib: this folder includes all necessary D3 related .js files for D3 visualization. 
 	CSE6242_finalproject_bar.csv: processed data .csv file includes all data needed for visualization. 
-	CSE6242_finalproject_bar.html: this file includes D3 visualization code mplementation in javascript for the grouped 	    bar plots with dropdown options.
+	CSE6242_finalproject_bar.html: this file includes D3 visualization code implementation in javascript for the grouped bar plots with dropdown options.
 	
 	Set up:
 	a) In command window, change the current directory to Barplot.
+	b) Check python version use python -V
+	c) If Python version returned is 3.X, use python3 -m http.server
+           If Python version returned is 2.X, use python -m SimpleHTTPSever
+	    
+2. Kmeans clusters
+	Contents:
+	lib: this folder includes all necessary D3 related .js files for D3 visualization. 
+	cluster_summary.csv: processed data .csv file includes all data needed for visualization - cluster averages for different variables
+	kmeans.html: this file includes D3 visualization code implementation in javascript for the kmeans clusters with 2 dropdown options for x and y axis respectively and slider for selecting the survey wave.
+	
+	Set up:
+	a) In command window, change the current directory to Kmeans clusters.
 	b) Check python version use python -V
 	c) If Python version returned is 3.X, use python3 -m http.server
            If Python version returned is 2.X, use python -m SimpleHTTPSever
@@ -57,5 +69,10 @@ Download CODE Folder and there are four sub-folders in CODE. Here are the steps 
 	
 2. Barplot
 	a) Open a web browser, type following URL: localhost:8000
-	b) Select choropleth_by_age.html
+	b) Select CSE6242_finalproject_bar.html
+	c) Dropdown can be used to change the financial variables
+	
+3. Kmeans clusters
+	a) Open a web browser, type following URL: localhost:8000
+	b) Select kmeans.html
 	c) Dropdown can be used to change the financial variables
