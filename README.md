@@ -12,7 +12,7 @@ overall wealth and health. Ideally, we would like the ratio the larger the bette
 each state's wealth vs health condition. Slider can be used to visualize the ratio by states from age 20s to 90s. 
 
 [Barplot](https://sahil-dhingra.github.io/barplot/):
-In this visualization, we plot the average medical cost, labor income, stock investment, and accumulative wealth grouped by age and health status. The different financial variables can be select using the dropdown at the top.
+In this visualization, we plot the average medical cost, labor income, stock investment, and accumulative wealth grouped by age and health status. The different financial variables can be selected using the dropdown at the top.
 
 [Kmeans clusters](https://sahil-dhingra.github.io/kmeans/):
 In this visualization, we initialize 5 clusters for the first cohort (survey wave) and plot distribution of relevant health and wealth attributes over the following 12 surveys. The trend and distribution of different attributes can be seen over 13 waves for the 5 clusters, where each cluster is represented by a bubble and the number of people at the time of the survey represented by its size. Another important aspect of this scatterplot visualization is the ability to do a bivariate analysis between any two of the seven variables incorporated in the plot. To keep a track of each cluster's trends, the cluster also leaves behind a trail, which is of a smaller size to maintain differentiability. The survey wave can be selected using the slider at the top and variables for x and y axes can be selected using the first and second dropdowns at the bottom respectively.
@@ -40,7 +40,7 @@ Download CODE Folder and there are four sub-folders in CODE. Here are the steps 
 	Contents:
 	lib: this folder includes all necessary D3 related .js files for D3 visualization. 
 	CSE6242_finalproject_bar.csv: processed data .csv file includes all data needed for visualization. 
-	CSE6242_finalproject_bar.html: this file includes D3 visualization code implementation in javascript for the grouped bar plots with dropdown options.
+	CSE6242_finalproject_bar.html: this file includes D3 visualization code implementation in javascript for the grouped bar plots with dropdown options. The visualization can be found [here](https://sahil-dhingra.github.io/barplot/).
 	
 	Set up:
 	a) In command window, change the current directory to Barplot.
