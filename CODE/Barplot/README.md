@@ -1,4 +1,4 @@
-This section plots median of household respondents' financial variables grouped by age and health status.
+This section plots household respondents' financial variables in average grouped by age and health status.
 The corresponding HTML file is in [CSE6242_finalproject_bar.html](https://github.com/shuangke/CSE6242FinalProject/blob/master/CODE/Barplot/CSE6242_finalproject_bar.html). The D3 visualization can be found [here](https://sahil-dhingra.github.io/barplot/).
 
 
