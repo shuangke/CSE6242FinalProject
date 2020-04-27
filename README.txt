@@ -40,7 +40,7 @@ Download CODE Folder and there are four sub-folders in CODE. Here are the steps 
 	Contents:
 	lib: this folder includes all necessary D3 related .js files for D3 visualization. 
 	CSE6242_finalproject_bar.csv: processed data .csv file includes all data needed for visualization. 
-	CSE6242_finalproject_bar.html: this file includes D3 visualization code implementation in javascript for the grouped bar plots with dropdown options. The visualization can be found [here](https://sahil-dhingra.github.io/barplot/).
+	CSE6242_finalproject_bar.html: this file includes D3 visualization code implementation in javascript for the grouped bar plots with dropdown options.
 	
 	Set up:
 	a) In command window, change the current directory to Barplot.
