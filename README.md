@@ -18,7 +18,7 @@ In this visualization, we initialize 5 clusters for the first cohort (survey wav
 Static plots of health and wealth distributions grouped by age and conditional upon their time in good or bad health.
 
 [Gridview](https://sahil-dhingra.github.io/gridview/):
-This figure shows how is the gender related to health and how does the health condition change over time among female and male – each grid is composed of 100 rectangles and each rectangle represents 1\% of population in a specific gender group. The number of light blue rectangles indicates percentages of unhealthy people. The number of dark blue rectangles indicates percentages of healthy population.  
+This figure shows how is the gender related to health and how does the health condition change over time among female and male – each grid is composed of 100 rectangles and each rectangle represents 1% of population in a specific gender group. The number of light blue rectangles indicates percentages of unhealthy people. The number of dark blue rectangles indicates percentages of healthy population.  
 
 ## Installation
 Download CODE Folder and there are four sub-folders in CODE. Here are the steps to set up each of them. 
