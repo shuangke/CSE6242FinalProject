@@ -85,7 +85,8 @@ Download CODE Folder and there are four sub-folders in CODE. Here are the steps 
 3. Kmeans clusters
 	a) Open a web browser, type following URL: localhost:8000
 	b) Select kmeans.html
-	c) Dropdown can be used to change the financial variables
+	c) Dropdown can be used to change Age and Health variables
+	d) Slide bar can be used to change different data wave. 
 	
 4. GridView
 	a) Open a web browser, type following URL: localhost:8000
